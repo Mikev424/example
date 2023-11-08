@@ -11,7 +11,7 @@ Each student should put an 'X' under their name on the days they attend class.
 | Nov 10 (Fri)|     X      |    XX      |           |
 | Nov 15 (Wed)|           |           |           |
 | Nov 17 (Fri)|This isnhow you do it|    ort like tbis       |           |
-| *Nov 22 (Wed)* |       |           |           |  <!-- Skipped for Thanksgiving -->
+| *Nov 22 (Wed)* |    hbvkjv   |           |           |  <!-- Skipped for Thanksgiving -->
 | *Nov 24 (Fri)* |       |           |           |  <!-- Skipped for Thanksgiving -->
 
 ### December 2023
